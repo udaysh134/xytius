@@ -2,9 +2,9 @@
 
 _Images/
 _Snips/
-src/Data/
 !src/Data/Others/valSys_Aki.js
 !src/Data/Others/words.js
+src/Data/
 
 
 # SYSTEM GENERATED --------------------------------------------------
