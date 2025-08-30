@@ -19,7 +19,7 @@ and design principles I implemented during its development.
     - **Games**: `wyr`, `roll`, `decode`, `reverse`, `rps`, `tictactoe`
     - **Utilities**: `weather`, `news`, `reminder`, `poll`, `convert`
     - **Information**: `avatar`, `userinfo`, `serverinfo`, `channelinfo`
-    - **Knowledge**: `define`, `nutrition`, `antonyms`, `synonyms`, ``
+    - **Knowledge**: `define`, `nutrition`, `antonyms`, `synonyms`
     - **Search**: `google`, `wikipedia`, `instagram`, `reddit`, `duolingo`
 - **API Integrations**: Incorporated multiple APIs to provide dynamic content:
     - **News**: Fetch the latest headlines
