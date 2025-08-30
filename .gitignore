@@ -1,3 +1,14 @@
+# USER DEFINED --------------------------------------------------
+
+_Images/
+_Snips/
+src/Data/
+!src/Data/Others/valSys_Aki.js
+!src/Data/Others/words.js
+
+
+# SYSTEM GENERATED --------------------------------------------------
+
 # Logs
 logs
 *.log
