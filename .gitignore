@@ -2,9 +2,13 @@
 
 _Images/
 _Snips/
-!valSys_Aki.js
-!words.js
-src/Data/
+
+src/Data/Others/invites.json
+src/Data/aubdycad.json
+src/Data/config.json
+src/Data/emojis.json
+src/Data/keys.json
+src/Data/pictures.json
 
 
 # SYSTEM GENERATED --------------------------------------------------
