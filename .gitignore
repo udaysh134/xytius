@@ -2,8 +2,8 @@
 
 _Images/
 _Snips/
-!src/Data/Others/valSys_Aki.js
-!src/Data/Others/words.js
+!valSys_Aki.js
+!words.js
 src/Data/
 
 
