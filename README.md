@@ -4,7 +4,9 @@ Welcome to Xytius, an advanced, multi-purpose Discord bot that I developed as a 
 
 ```
 ⚠️ Important Note : 
-Due to a lack of maintenance over the years, Xytius is not operational at the moment. However, the codebase remains intact and serves as a testament to the capabilities and design principles I implemented during its development.
+Due to a lack of maintenance over the years, Xytius is not operational at the moment.
+However, the codebase remains intact and serves as a testament to the capabilities
+and design principles I implemented during its development.
 ```
 
 
