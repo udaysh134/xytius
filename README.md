@@ -2,8 +2,8 @@
 Welcome to Xytius, an advanced, multi-purpose Discord bot that I developed as a side project in 2021 while learning JavaScript. This bot was designed to enhance Discord servers with a plethora of features, intuitive UI, and seamless integrations.
 
 
-⚠️ **Important Note** :
-_Due to a lack of maintenance over the years, Xytius is not operational at the moment. However, the codebase remains intact and serves as a testament to the capabilities and design principles I implemented during its development._
+Important Note : 
+`Due to a lack of maintenance over the years, Xytius is not operational at the moment. However, the codebase remains intact and serves as a testament to the capabilities and design principles I implemented during its development.`
 
 
 ## ✨ **Key Features**
