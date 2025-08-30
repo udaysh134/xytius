@@ -1,18 +1,19 @@
 # Xytius
-Welcome to Xytius, an advanced, multi-purpose Discord bot that I developed as a side project in 2021 while learning JavaScript. This bot was designed to enhance Discord servers with a plethora of features, intuitive UI, and seamless integrations.
+Welcome to Xytius, an advanced, multi-purpose Discord bot that I developed as a side project in 2021 while learning JavaScript. This bot was designed to enhance Discord servers with a plethora of features, intuitive UI, and seamless integrations with innovative commands and server systems.
 
 
 ```
 ⚠️ Important Note : 
-Due to a lack of maintenance over the years, Xytius is not operational at the moment.
-However, the codebase remains intact and serves as a testament to the capabilities
-and design principles I implemented during its development.
+Due to a lack of maintenance over the years, Xytius is now only partially operational
+at the moment, meaning some of its features work, others don't. However, the codebase
+remains intact and serves as a testament to the capabilities and design principles
+I implemented during its development.
 ```
 
 
 ## ✨ **Key Features**
 
-- **Comprehensive Command Suite** : Over 50 commands spanning various categories, including:
+- **Comprehensive Command Suite** : Over 65+ commands spanning various categories, including:
     - **Admin Tools**: `purge`, `announce`, `setprefix`, `antijoin`, `unban`
     - **Moderation**: `ban`, `kick`, `mute`, `warn`, `report`, `timeout`
     - **Fun**: `meme`, `joke`, `trivia`, `coinflip`, `random`
