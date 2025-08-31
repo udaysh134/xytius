@@ -11,7 +11,7 @@ I implemented during its development.
 ```
 
 
-## ✨ **<font color="#8b7462ff">Instagram Ads</font>**
+## ✨ **Key Features**
 
 - **Comprehensive Command Suite** : Over 65+ commands spanning various categories, including:
     - **Admin Tools** : `purge`, `announce`, `setprefix`, `antijoin`, `unban`
@@ -42,7 +42,7 @@ I implemented during its development.
     - User nickname storage
     - Sticky messages and more
 
-    This ensures scalability, consistency, and reliable data persistence across whole server.
+    This ensured scalability, consistency, and reliable data persistence across whole server.
 
 
 ## 🧠 **Development Highlights**
